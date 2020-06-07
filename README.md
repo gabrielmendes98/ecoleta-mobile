@@ -1,4 +1,4 @@
-# Ecoleta Web Application
+# Ecoleta Mobile Application
 
 Interface demo gif: coming soon...
 
